@@ -1,4 +1,8 @@
 # rivera_94243_Finalproject_BoardParchessi
+Program made by Rosangelica Rivera Hernandez #94243
+Program made by Brenda Flores Acevedo #120654
+
+
 This is the game of Parchessi and Final Proyect of the class of Advanced
 
 What is Parchessi?
