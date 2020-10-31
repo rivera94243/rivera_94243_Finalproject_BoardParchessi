@@ -13,6 +13,7 @@ b. Learn more about the structure of this game
 c. Get better on the movements of the game
 
 We used a some reference.
+Python Programming Third Edition by John Zell
 https://www.alamy.com/parcheesi-board-image60536007.html (photo of the board I used more reference)
 https://en.wikipedia.org/wiki/Parcheesi  (Learned more about the game and the photo reference)
 https://www.youtube.com/watch?v=Sk2xBhPElvI (I used this Ludo board reference it was a very interesting program)
